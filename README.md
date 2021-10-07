@@ -27,7 +27,7 @@ Spoken ( Pyttsx3 , Gtts , Speech recognition ).
 These modules support for the image processing like converting the input into several frames and these frame processing with the already trained images in the
 dataset and recognition of the image with the database. (numpy , pickle ,os).
 
-&nsbp;
+<p>&nbsp;</p>
 
 ![WhatsApp Image 2021-10-07 at 1 14 47 PM](https://user-images.githubusercontent.com/55402034/136341755-0858f726-704f-4327-889f-6651b110e9ad.jpeg)
 
